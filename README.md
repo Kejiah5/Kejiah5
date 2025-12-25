@@ -1,8 +1,9 @@
-
+<details>
+<summary>banner</summary>                                   
 ██ ▄█▀ ▄▄▄▄▄   ▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄ ███▀▀▀ 
 ████   ██▄▄    ██ ██ ██▀██ ██▄██ ▀▀███▄ 
 ██ ▀█▄ ██▄▄▄ ▄▄█▀ ██ ██▀██ ██ ██ ▄▄▄██▀ 
-
+</details>
 
 Low-level scripts, Still learning to code..
 ---
